@@ -1,10 +1,10 @@
 # exerc-cios-resolvidos-de-python-
-Uma série de questões de em python para ajudar iniciantes em programação como eu. Os exercícios foram resolvoidos por mim (peço 
+Uma série de questões em python para ajudar iniciantes em programação como eu. Os exercícios foram resolvoidos por mim (peço 
 desculpa caso tenha algum erro,não sou programador, somente uma pessoa que adora aprender), mas sintan-se a vontade a contribuir com melhoras e upgrades. 
 
 Só tenho como objetivo compartilhar conhecimento e aprender um pouco mais com todos
 
-Abaixo tem é possível encontrar as questões e nesse repositório você também irá achar os cógidos com as respostas feitas por mim,
+Abaixo é possível encontrar as questões e nesse repositório você também irá achar os cógidos com as respostas feitas por mim.
 
 
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
